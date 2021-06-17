@@ -1,0 +1,265 @@
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fLogin.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fTableManager.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\bin\Debug\Interop.WIA.dll
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\bin\Debug\AxInterop.WIA.dll
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\Interop.WIA.dll
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\AxInterop.WIA.dll
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.ResolveComReference.cache
+D:\DOLYNHAN\SCHOOL\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+D:\DOLYNHAN\SCHOOL\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+D:\DOLYNHAN\SCHOOL\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+D:\DOLYNHAN\SCHOOL\HotelManagement\HotelManagement\bin\Debug\Interop.WIA.dll
+D:\DOLYNHAN\SCHOOL\HotelManagement\HotelManagement\bin\Debug\AxInterop.WIA.dll
+D:\DOLYNHAN\SCHOOL\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csprojAssemblyReference.cache
+D:\DOLYNHAN\SCHOOL\HotelManagement\HotelManagement\obj\Debug\Interop.WIA.dll
+D:\DOLYNHAN\SCHOOL\HotelManagement\HotelManagement\obj\Debug\AxInterop.WIA.dll
+D:\DOLYNHAN\SCHOOL\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.ResolveComReference.cache
+D:\DOLYNHAN\SCHOOL\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fLogin.resources
+D:\DOLYNHAN\SCHOOL\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fTableManager.resources
+D:\DOLYNHAN\SCHOOL\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ListBill.resources
+D:\DOLYNHAN\SCHOOL\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+D:\DOLYNHAN\SCHOOL\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+D:\DOLYNHAN\SCHOOL\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+D:\DOLYNHAN\SCHOOL\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.ManageGuest.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageBill.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\bin\Debug\Interop.WIA.dll
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\bin\Debug\AxInterop.WIA.dll
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csprojAssemblyReference.cache
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\Interop.WIA.dll
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\AxInterop.WIA.dll
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.ResolveComReference.cache
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fLogin.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fTableManager.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ListBill.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.ManageGuest.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageBill.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\bin\Debug\Interop.WMPLib.dll
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\bin\Debug\AxInterop.WMPLib.dll
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\Interop.WMPLib.dll
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\AxInterop.WMPLib.dll
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageUser.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageEmployee.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoom.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\bin\Debug\VisualReactiveWinForms.dll
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\bin\Debug\VisualReactiveWinForms.xml
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CopyComplete
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Create_Users.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Bills.Create_Bills.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Bills.Delete_Bills.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Bills.Find_Bills.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Bills.List_Bills.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Bills.Update_Bills.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Employees.Create_Employees.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Employees.Delete_Employees.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Employees.Find_Employees.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Employees.List_Employees.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Employees.Update_Employees.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Guests.Create_Guests.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Guests.Delete_Guests.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Guests.Find_Guests.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Guests.List_Guests.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Guests.Update_Guests.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Create_Rooms.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Delete_Rooms.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Find_Rooms.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.List__Rooms1.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Update_Rooms.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Delete_Users.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Find_Users.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.List_Users.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\Đồ án CNPM\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Update_Users.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\bin\Debug\VisualReactiveWinForms.dll
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\bin\Debug\VisualReactiveWinForms.xml
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\bin\Debug\Interop.WIA.dll
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\bin\Debug\Interop.WMPLib.dll
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\bin\Debug\AxInterop.WIA.dll
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\bin\Debug\AxInterop.WMPLib.dll
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\Interop.WIA.dll
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\Interop.WMPLib.dll
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\AxInterop.WIA.dll
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\AxInterop.WMPLib.dll
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.ResolveComReference.cache
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Bills.Create_Bills.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Bills.Delete_Bills.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Bills.Find_Bills.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Bills.List_Bills.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Bills.Update_Bills.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Employees.Create_Employees.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Employees.Find_Employees.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Employees.Update_Employees.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Guests.Create_Guests.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Guests.Find_Guests.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Guests.Update_Guests.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Delete_Rooms.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Find_Rooms.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.List__Rooms1.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Update_Rooms.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Delete_Users.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Find_Users.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Create_Users.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fLogin.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fTableManager.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.ManageGuest.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageBill.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageEmployee.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoom.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageUser.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.List_Users.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Update_Users.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CopyComplete
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Checkin_Room.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csprojAssemblyReference.cache
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\bin\Debug\VisualReactiveWinForms.dll
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\bin\Debug\VisualReactiveWinForms.xml
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\bin\Debug\Interop.WMPLib.dll
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\bin\Debug\AxInterop.WMPLib.dll
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\Interop.WMPLib.dll
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\AxInterop.WMPLib.dll
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Bills.Create_Bills.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Bills.Delete_Bills.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Bills.Find_Bills.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Bills.List_Bills.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Bills.Update_Bills.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Employees.Create_Employees.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Employees.Find_Employees.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Guests.Create_Guests.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Guests.Find_Guests.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Checkin_Room.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Delete_Rooms.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Update_Rooms.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Find_Users.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Create_Users.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageEmployee.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoom.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageUser.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CopyComplete
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.FoodBeverage.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csprojAssemblyReference.cache
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Create.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Checkout_Room.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.ChooseService.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Employees.EmployeeInfor.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Statics.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Guests.GuestInfor.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Guests.Update_Guests.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Update_Users.resources
+D:\_School_\CODE\DO AN CNPM\C#\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Users.UserInfor.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\bin\Debug\VisualReactiveWinForms.dll
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\bin\Debug\VisualReactiveWinForms.xml
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\bin\Debug\Interop.WIA.dll
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\bin\Debug\Interop.WMPLib.dll
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\bin\Debug\AxInterop.WIA.dll
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\bin\Debug\AxInterop.WMPLib.dll
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csprojAssemblyReference.cache
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\Interop.WIA.dll
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\Interop.WMPLib.dll
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\AxInterop.WIA.dll
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\AxInterop.WMPLib.dll
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.ResolveComReference.cache
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Employees.Create_Employees.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Employees.EmployeeInfor.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Employees.Find_Employees.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Guests.Create_Guests.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Guests.Find_Guests.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Guests.GuestInfor.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Checkin_Room.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Checkout_Room.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.ChooseService.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Create.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Delete_Rooms.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.FoodBeverage.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Update_Rooms.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Statics.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fLogin.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fTableManager.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.ManageGuest.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageBill.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageEmployee.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoom.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageUser.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Create_Users.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Find_Users.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Update_Users.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Users.UserInfor.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CopyComplete
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Bills.BillInfor.resources
+D:\DOLYNHAN\SCHOOL\Năm 2 kì 2\vô danh\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Bills.Find_Bills.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\bin\Debug\VisualReactiveWinForms.dll
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\bin\Debug\VisualReactiveWinForms.xml
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\bin\Debug\Interop.WIA.dll
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\bin\Debug\Interop.WMPLib.dll
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\bin\Debug\AxInterop.WIA.dll
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\bin\Debug\AxInterop.WMPLib.dll
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\Interop.WIA.dll
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\Interop.WMPLib.dll
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\AxInterop.WIA.dll
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\AxInterop.WMPLib.dll
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.ResolveComReference.cache
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Bills.BillInfor.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Bills.Find_Bills.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Employees.Create_Employees.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Employees.EmployeeInfor.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Employees.Find_Employees.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Guests.Create_Guests.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Guests.Find_Guests.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Guests.GuestInfor.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Checkin_Room.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Checkout_Room.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.ChooseService.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.FoodBeverage.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Statics.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fLogin.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.fTableManager.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.ManageGuest.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageBill.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageEmployee.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageRoom.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ManageUser.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Create_Users.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Find_Users.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Users.UserInfor.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CopyComplete
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.BillinfoFood.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.BillinfoService.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.UserInfor.Info.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.GUI.Rooms.Create_Room.resources
+D:\_School_\CODE\DO AN CNPM\C#\NEW\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csprojAssemblyReference.cache
